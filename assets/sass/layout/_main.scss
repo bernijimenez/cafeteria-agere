@@ -1,0 +1,72 @@
+.principal {
+  position: absolute;
+  width: 100%;
+  height: auto;
+}
+
+.principal__img {
+  width: 69%;
+}
+.principal__text-1 {
+  float: right;
+  padding-right: 10%;
+  padding-top: 6%;}
+
+.principal__text-2 {
+  float: right;
+  padding-right: 20%;
+  margin-top: -16%;
+}
+
+.text {
+  position: absolute;
+  width: 475px;
+  height: 140px;
+  background-color: $white;
+  float: right;
+  margin-top: 23%;
+  margin-left: 36%;
+  z-index: 2;
+}
+
+.text__1 {
+  padding-top: 20px;
+  padding-left: 20px;
+  line-height: normal;
+}
+
+.text__2 {
+  padding-top: 20px;
+  padding-left: 140px;
+  margin-top: -19%;
+  line-height: normal;
+}
+
+.text__3 {
+  padding-top: 20px;
+  padding-left: 230px;
+  margin-top: -20%;
+  line-height: normal;
+}
+
+.bloque__naranjo {
+  position: absolute;
+  padding: 40px;
+  margin-top: -25%;
+  margin-left: 85%;
+  background-color: $flame;
+  z-index: 4;
+  i {
+    color: $white;
+    font-size: 50px;
+  }
+}
+
+.bloque__amarillo {
+  position: absolute;
+  padding: 60px;
+  margin-top: -19%;
+  margin-left: 90%;
+  background-color: $coral;
+  z-index: 3;
+}

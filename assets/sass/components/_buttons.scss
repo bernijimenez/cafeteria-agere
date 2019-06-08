@@ -1,0 +1,27 @@
+.navigation__button-start {
+  position:absolute;
+  width: 154px;
+  height: 35px;
+  left: 70%;
+  padding-left: center;
+  font-family: $pt-mono;
+  font-weight: $regular;
+  font-size: $medium;
+  color: $isabelline;
+  border-color: $isabelline;
+  background-color: $white;
+}
+
+.navigation__button-log {
+  position:absolute;
+  width: 120px;
+  height: 35px;
+  left: 250%;
+  padding-left: center;
+  font-family: $pt-mono;
+  font-weight: $regular;
+  font-size: $medium;
+  color: $white;
+  border-color: $shiny-shamrock;
+  background-color: $shiny-shamrock;
+}

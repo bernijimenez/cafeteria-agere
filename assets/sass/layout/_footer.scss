@@ -1,0 +1,53 @@
+.contacto {
+  padding-top: 37%;
+}
+
+.contacto__texto {
+  float: left;
+  padding-left: 4%;
+  margin-top: 15px;
+  margin-left: 15px;
+  width: 295px;
+}
+
+.contacto__texto-enjoy{
+  margin-top: 20px;
+}
+
+.contacto__mapa {
+  padding-right: 80px;
+  margin-left: 34%;
+}
+
+.contacto__img-4 {
+  width: 396px;
+  height:211px;
+}
+
+.contacto__azul {
+    position: absolute;
+    width: 472px;
+    height: 229px;
+    margin-left: 2%;
+    margin-top: -20%;
+    background-color: $blue-de-france;
+    z-index: -1;
+}
+
+.contacto__img-3 {
+  position: absolute;
+  width: 96px;
+  height: 164px;
+  padding-left: 70%;
+  padding-top: 10%;
+  margin-top: -30%;
+  z-index: 2;
+}
+
+.contacto__img-2 {
+  position: absolute;
+  width: 382px;
+  height: 260px;
+  margin-left: 70%;
+  margin-top: -20%;
+}
